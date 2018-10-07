@@ -1,3 +1,6 @@
+## Credits
+This product uses the TMDb API but is not endorsed or certified by TMDb.
+
 ## Privacy and Policy
 
 ### Collection of Information
